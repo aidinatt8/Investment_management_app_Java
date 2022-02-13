@@ -10,12 +10,12 @@ App developed on Eclipse IDE for Java developers for personal Investment managem
 
 <p>
   <img src="screenshots/login_page.png" width = 500px />
-  <img src="screenshots/login_success.png"  /> 
+  <img src="screenshots/login_success.png" width = 500px /> 
 </p>
 
 <p>
-  <img src="screenshots/dashboard.png"/>
-  <img src="screenshots/all_stocks_table.png"  /> 
+  <img src="screenshots/dashboard.png" width = 500px />
+  <img src="screenshots/all_stocks_table.png" width = 500px /> 
 </p>
 
 ### Further developments will include 
