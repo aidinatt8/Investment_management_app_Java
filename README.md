@@ -9,7 +9,7 @@ App developed on Eclipse IDE for Java developers for personal Investment managem
 - I am using tabs view to work as a menu bar for better user experience 
 
 <p>
-  <img src="screenshots/login_page.png"/>
+  <img src="screenshots/login_page.png" width = 500px />
   <img src="screenshots/login_success.png"  /> 
 </p>
 
