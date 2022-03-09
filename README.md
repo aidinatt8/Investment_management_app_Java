@@ -34,8 +34,8 @@ The puspose of the project is to assist non-professional individuals in monitori
 3. On the left side menu click '+New' to create a database. Give it 'stocksdb' name
 4. Select 'Import' tab and import the stocksdb.sql (download from the repository)
 <p>
-  <img src="screenshots/stocks_list.jpeg" width = 400px />
-  <img src="screenshots/add_stock.jpeg" width = 400px /> 
+  <img src="screenshots/users_tbl.jpeg" width = 600px />
+  <img src="screenshots/portfolios_tbl.jpeg" width = 600px /> 
 </p>
 
 ### Further improvement ideas
