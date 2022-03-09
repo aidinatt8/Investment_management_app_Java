@@ -15,13 +15,17 @@ The puspose of the project is to assist non-professional individuals in monitori
 
 ## Screenshots
 <p>
-  <img src="screenshots/login_page.png" width = 400px />
-  <img src="screenshots/login_success.png" width = 400px /> 
+  <img src="screenshots/login.jpeg" width = 400px />
+  <img src="screenshots/portfolio_page.jpeg" width = 400px /> 
 </p>
 
 <p>
-  <img src="screenshots/dashboard.png" width = 500px />
-  <img src="screenshots/all_stocks_table.png" width = 500px /> 
+  <img src="screenshots/stocks_list.jpeg" width = 400px />
+  <img src="screenshots/add_stock.jpeg" width = 400px /> 
+</p>
+
+<p>
+  <img src="screenshots/remove_stock.jpeg" width = 400px />
 </p>
 
 ### Further improvement ideas
