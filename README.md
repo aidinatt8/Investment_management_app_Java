@@ -1,16 +1,22 @@
 # Investment_management_app_Java
-App developed on Eclipse IDE for Java developers for personal Investment management and tracking. 
+The puspose of the project is to assist non-professional individuals in monitoring their stocks and to help prevent losing much money on it. The app is developed in Eclipse IDE for Java devlopers. 
 
-#### Project is still in progress
+## Features of the app
+- Java Database connection established in back-end.
+- JavaMail API is used to send email notification through Gmail. 
+- Java web-scraping is used to give the latest updated pricing of the active stocks. The data is retrieved from Yahoo Finance and populates the table in 'stocks' tab. 
+- Search bar in 'stocks' tab can dynamically perform searching (no need to press any button).
+- 'Add' button uploads the information to MySQL, which is then displayed on the 'My Portfolio' table.
+- 'Remove' button removes the relevant stock from the database and removes from 'My Portfolio' table.
+- Total cost is calculated by adding the price spent on 'buying' the stocks in portfolio. Uses data from MySQL (it doesnt update in real-time).
+- Total revenue is the latest market price of the portfolio stocks (web-scraped).
+- Login page which verifies the username and password with the database data.
+- 'My portfolio' table displays only the stocks which belong to the logged user.
 
-## Current developments
-- The app has a fully functioning login page. It is not yet connected to database 
-- The stocks real-time pricing and information has been successfully web-scraped and displayed on Home and Stocks tabs
-- I am using tabs view to work as a menu bar for better user experience 
-
+## Screenshots
 <p>
-  <img src="screenshots/login_page.png" width = 500px />
-  <img src="screenshots/login_success.png" width = 500px /> 
+  <img src="screenshots/login_page.png" width = 400px />
+  <img src="screenshots/login_success.png" width = 400px /> 
 </p>
 
 <p>
@@ -18,8 +24,6 @@ App developed on Eclipse IDE for Java developers for personal Investment managem
   <img src="screenshots/all_stocks_table.png" width = 500px /> 
 </p>
 
-### Further developments will include 
-- Linking the project with MySQL database to make it account based and store portfolio information 
-- Being able to add, delete stocks in My portfolio 
-- Sending email notifications when the price for stock in portfolio is below specified value. 
-- More ideas might be added on the go)
+### Further improvement ideas
+- Add Registration page. 
+- Replace web scraping data with something else e.g.external API. The app is too dependent on the code of the Yahoo Finance. 
